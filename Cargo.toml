@@ -6,4 +6,4 @@ authors = [ "Simon Sapin <simon.sapin@exyr.org>" ]
 
 [dependencies.encoding]
 
-git = "https://github.com/lifthrasiir/rust-encoding"
+git = "https://github.com/Catethysis/rust-encoding.git"
